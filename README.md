@@ -5,7 +5,7 @@ Github reprositery link: https://github.com/Jaganmohan147/Health-healing-service
 
 Microsoft Azure link: https://lively-wave-0e7655b10.2.azurestaticapps.net
 
-Abstracct/problem statemnet:
+Abstract/problem statement :
 
 Along with growing technology day by day, there is so much advancement in all areas especially in medical filed many hospital provides online medical services ,treatment methods it is very helpful in pandemic situations’ example during covid time ,in this project i focused on online medical services provided by a hospital of various departments
 
